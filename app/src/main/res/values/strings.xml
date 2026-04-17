@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutriTracker</string>
+    <string name="log_meal">Log Meal</string>
+    <string name="add_food_to_track_your_nutrition">Add food to track your nutrition</string>
+    <string name="meal_details">Meal Details</string>
+    <string name="search_food">Search Food</string>
+    <string name="search_for_food">Search for food...</string>
+    <string name="qty">Qty</string>
+    <string name="add_to_daily_log">Add to Daily Log</string>
+    <string name="todo">TODO</string>
+    <string name="_1">1</string>
+    <string name="preview_0_kcal_p_0g_c_0g_f_0g">Preview: 0 kcal | P: 0g | C: 0g | F: 0g</string>
+    <string name="selected_food">Selected Food</string>
+    <string name="nutritracker">NutriTracker</string>
+    <string name="set_up_your_profile">Set up your profile</string>
+    <string name="back">Back</string>
+    <string name="track_activity">Track Activity</string>
+    <string name="log_exercises_and_intensity">Log exercises and intensity</string>
+    <string name="exercise_type">Exercise Type</string>
+    <string name="intensity">Intensity</string>
+    <string name="or">— OR —</string>
+    <string name="duration_minutes">Duration (Minutes)</string>
+    <string name="direct_calories_burned">Direct Calories Burned</string>
+    <string name="save_activity">Save Activity</string>
+    <string name="hello">Hello!</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activity_level_array">
+        <item>Sedentary (little to no exercise)</item>
+        <item>Lightly active (light exercise/sports 1-3 days/week)</item>
+        <item>Moderate (exercise 3-5 days/week)</item>
+        <item>Active (hard exercise/sports 6-7 days a week)</item>
+    </string-array>
+
+    <string-array name="meal_type_array">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snacks</item>
+    </string-array>
+</resources>

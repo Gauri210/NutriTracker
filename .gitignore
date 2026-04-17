@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.aar
+
+# Local properties
+local.properties
+
+# Signing files
+*.jks
+*.keystore
+
+# Build output
+bin/
+gen/
+
+# OS files
+.DS_Store
